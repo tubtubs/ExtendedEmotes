@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: ExtendedEmotes
+## Author: |ccf3CE13Ftubtubs 
+## Version: 1.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## OptionalDeps: none
+ExtendedEmotes.lua
