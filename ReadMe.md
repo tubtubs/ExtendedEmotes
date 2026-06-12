@@ -12,4 +12,4 @@ You can also use the [GitAddonsManager](https://gitlab.com/woblight/GitAddonsMan
 * If there are any further issues with installation, ensure that *ExtendedEmotes.toc* is in the root folder. There should be no subdirectories. Eg: *C:\Games\WoW\Interface\Addons\ExtendedEmotes\ExtendedEmotes.toc*
 
 # Dev Notes
-This list of emotes and their relevant slash commands is from the original ui files for Wrath of the Lich King. All I've done is re-order their indexes so theres no gaps, allowing them to function properly in the default chat handler. Doesn't need to modify the default UI to work.
+This list of emotes and their relevant slash commands is from the original ui files for Wrath of the Lich King. All I've done is re-order their indexes so theres no gaps, allowing them to function properly in the default chat handler. Doesn't need to modify the default UI to work. Left out the default vanilla emotes, as theres no need to include those.

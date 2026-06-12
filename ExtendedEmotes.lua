@@ -1,4 +1,4 @@
---Variables from ChatFrame.lua
+-- from ChatFrame.lua
 EMOTE171_TOKEN = "MOUNTSPECIAL"
 EMOTE172_TOKEN = "INCOMING"
 EMOTE173_TOKEN = "FLEE"
